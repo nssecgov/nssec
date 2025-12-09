@@ -60,8 +60,8 @@ const CircularMenu = () => {
   ];
 
   return (
-    <div className="w-full min-h-screen p-6 md:p-12 " style={{ backgroundColor: "#24c2c2" }}>
-      <div className="max-w-7xl mx-auto lg:py-10">
+    <div className="w-full n p-6 md:p-12 " style={{ backgroundColor: "#24c2c2" }}>
+      <div className="lg:py-10">
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-8">
           {menuItems.map((item, index) => (
             <div key={index} className="aspect-square w-full max-w-[200px] mx-auto">
