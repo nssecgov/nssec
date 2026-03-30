@@ -43,11 +43,11 @@ export const metadata = {
   openGraph: {
     title: "NSSEC - National Senior Secondary Education Commission",
     description: "Regulatory body overseeing and standardizing senior secondary education in Nigeria",
-    url: 'https://nssec.gov.ng', // Update with your actual domain
+    url: 'https://nssec.gov.ng', 
     siteName: 'NSSEC',
     images: [
       {
-        url: '/nssec.jpeg', // Update with your actual OG image
+        url: '/nssec.jpeg', 
         width: 1200,
         height: 630,
         alt: 'NSSEC - National Senior Secondary Education Commission',
@@ -60,9 +60,9 @@ export const metadata = {
     card: "summary_large_image",
     title: "NSSEC - National Senior Secondary Education Commission",
     description: "Regulatory body overseeing senior secondary education in Nigeria",
-    images: ["/nssec.jpeg"], // Update with your actual Twitter image
-    creator: "@NSSEC_Nigeria", // Update with your Twitter handle
-    site: "@NSSEC_Nigeria", // Update with your Twitter handle
+    images: ["/nssec.jpeg"], 
+    creator: "@NSSEC_Nigeria", 
+    site: "@NSSEC_Nigeria", 
   },
   robots: {
     index: true,

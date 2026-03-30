@@ -19,6 +19,7 @@ export default function NotFound() {
                 src="/nssec.jpeg"
                 alt="NSSEC Logo"
                 fill
+                
                 className="rounded-lg object-cover"
               />
             </div>

@@ -33,7 +33,7 @@ const News = () => {
   if (loading) {
     return (
       <section className="py-16 md:py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="text-center mb-12">
             <div className="h-10 w-64 bg-gray-200 rounded-lg mx-auto mb-4 animate-pulse"></div>
             <div className="h-4 w-96 bg-gray-100 rounded mx-auto animate-pulse"></div>

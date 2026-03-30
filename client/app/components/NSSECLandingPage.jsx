@@ -102,7 +102,7 @@ const NSSECLandingPage = () => {
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
       <section className="py-20 bg-white">
-        <div className="max-w-[100rem] mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <div className="space-y-6">
@@ -170,7 +170,7 @@ const NSSECLandingPage = () => {
 
       {/* About Section */}
       <section id="about" className="py-24 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="text-center mb-20">
             <div className="w-20 h-1 bg-[#24c2c2] mx-auto mb-6"></div>
             <h2 className="text-5xl font-bold text-gray-900 mb-6">
@@ -291,7 +291,7 @@ const NSSECLandingPage = () => {
 
       {/* Key Objectives */}
       <section className="py-24 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="text-center mb-20">
             <div className="w-20 h-1 bg-[#24c2c2] mx-auto mb-6"></div>
             <h2 className="text-5xl font-bold text-gray-900 mb-6">
@@ -327,7 +327,7 @@ const NSSECLandingPage = () => {
 
       {/* Core Focus Areas */}
       <section id="services" className="py-24 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="text-center mb-20">
             <div className="w-20 h-1 bg-[#24c2c2] mx-auto mb-6"></div>
             <h2 className="text-5xl font-bold text-gray-900 mb-6">
@@ -395,7 +395,7 @@ const NSSECLandingPage = () => {
         <div className="absolute top-0 right-0 w-96 h-96 bg-white opacity-5 rounded-full -translate-y-48 translate-x-48"></div>
         <div className="absolute bottom-0 left-0 w-64 h-64 bg-white opacity-5 rounded-full translate-y-32 -translate-x-32"></div>
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10 relative">
           <div className="text-center mb-16">
             <div className="w-20 h-1 bg-white mx-auto mb-6"></div>
             <h2 className="text-5xl font-bold mb-6">
@@ -443,7 +443,7 @@ const NSSECLandingPage = () => {
 
       {/* Call to Action */}
       <section className="py-24 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-[100rem] mx-auto px-2 sm:px-4  lg:px-8 2xl:px-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <div className="space-y-6">

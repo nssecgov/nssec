@@ -8,6 +8,13 @@ const baseUrl = 'https://nssec.gov.ng'; // Update with your actual domain
  * @param {Object} options - SEO configuration options
  * @returns {Object} Next.js metadata object
  */
+
+// Enter same passphrase again: 
+// Your identification has been saved in /home/nssecgov/.ssh/id_rsa
+// Your public key has been saved in /home/nssecgov/.ssh/id_rsa.pub
+// The key fingerprint is:
+// SHA256:Q37loj8pM9VoLTo1BPRBkw91YpHiLVzmx/FdRQHAFGk 
+// The key's randomart image is:
 export function generateSEO({ 
   title, 
   description, 

@@ -1,6 +1,6 @@
 // sitemap.js
 export default function sitemap() {
-  const baseUrl = 'https://nssec.gov.ng'; // Update with your actual domain
+  const baseUrl = 'https://www.nssec.gov.ng'; // Update with your actual domain
   
   return [
     {

@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nssec.gov.ng/sitemap.xml  # Update with your actual domain
+Sitemap: https://www.nssec.gov.ng/sitemap.xml  # Update with your actual domain
